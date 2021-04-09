@@ -21,3 +21,5 @@ YouTube:-https://www.youtube.com/channel/UCNi07PWSyhA8zSBz9M84j1w
 I would really appricate if you give credits to me for the tamplate+code
 
 Coded by sublime text and visual studio
+
+Made in html,css
